@@ -1,5 +1,7 @@
 # Example HPC project
 
+https://github.com/USCbiostats/example-hpc-project
+
 1. Setup a Git repository (optional, but good idea)
 
 2. Prepare the R environment: R packages to be installed.
