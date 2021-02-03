@@ -14,7 +14,7 @@ wrap_sim <- function(x) {
 
 ans <- sim_events(1000, 100)
 
-wrap_sim(ans)
+str(wrap_sim(ans))
 
 # But we need to setup the program in a cluster
 cl  <- makePSOCKcluster(4)
