@@ -14,8 +14,4 @@ https://github.com/USCbiostats/example-hpc-project
 
 ## Dependencies
 
-This depends on the following R packages:
-
-1. [slurmR](https://github.com/USCbiostats/slurmR)
-
-2. [njforce](https://github.com/USCbiostats/njforce)
+This depends on the [slurmR](https://github.com/USCbiostats/slurmR) package.
